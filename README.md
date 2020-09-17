@@ -1,3 +1,3 @@
-# Personal Resume/Portfolio/Blogging Website
+# Personal Website
 
-Forked from [Chuan Wang Website](https://github.com/wangchuan/wangchuan.github.io)
+Forked from [Salomon Kabongo Website](https://github.com/skabongo/skabongo.github.io)
