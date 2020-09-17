@@ -49,7 +49,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 <td markdown="1">
 [**Kwame Nkrumah University of Science and Technology (KNUST)**](https://www.knust.edu.gh/), 09/2019 - 11/2020
 - **Mphil. Applied Mathematics**
-- Supervisor: Dr.[Richard Kodzo Avuglah](https://www.knust.edu.gh/)
+- Supervisor: [Dr. Richard Kodzo Avuglah](https://www.knust.edu.gh/)
 Thesis: Machine Learning in Pricing European Call Options
 </td> 
 </tr>
@@ -63,7 +63,7 @@ Thesis: Machine Learning in Pricing European Call Options
 <td markdown="1">
 [**African Institute for Mathematical Sciences, (AIMS Senegal)**](https://aims-senegal.org/), 09/2017 - 02/2019 
 - **Msc in Mathematical Sciences**
-- Supervisor: Prof. [Daouda Sangare](https://www.ugb.sn/)
+- Supervisor: [Prof. Daouda Sangare](https://www.ugb.sn/)
 - *Full scolarship by MasterCard Foundation, [MCF](https://mastercardfdn.org/)*
 - Thesis: Option Pricing Using Numerical Methods
 </td> 
