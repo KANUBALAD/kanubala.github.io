@@ -131,7 +131,6 @@ JB :
     provider : google
     google :
         tracking_id : 'UA-178372022-1'
-'
     # getclicky :
     #   site_id :
     # mixpanel :
