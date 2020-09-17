@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Publications"
+title: "Awards and Publications"
 tagline : ""
 use_math: true
 lang: zh
@@ -49,17 +49,32 @@ lang: zh
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
-![spiden](/img/main/masakhane_paper_1.png){:class="img-shadow"}
+![spiden](/img/main/mcf_scholars.png){:class="img-shadow"}
 </td>
 <td></td>
 <td markdown="1">
-<div><b>MASAKHANE - MACHINE TRANSLATION FOR AFRICA</b></div>
+<div><b>Mastercard Foundation Scholars Research Grant</b></div>
 <div>
-Africa has over 2000 languages. Despite this, African languages account for a small portion of available resources and publications in Natural Language Processing (NLP). This is due to multiple factors, including: a lack of focus from government and funding, discoverability, a lack of community, sheer language complexity, difficulty in reproducing papers and no benchmarks to compare techniques. In this paper, we discuss our methodology for building the community and spurring research from the African continent, as well as outline the success of the community in terms of addressing the identified problems affecting African NLP.</div>
-<div><i>Accepted for the AfricaNLP Workshop, ICLR 2020</i></div>
+The Mastercard Foundation Scholars Program is developing Africa’s next generation of leaders. The program allows students whose talent and promise exceed their financial resources to complete their education. With a vision that education is a catalyst for social and economic change, the program focuses on developing leaders who are transformative, encouraging them to be active contributors in their communities.</div>
+|| <em class="icon-home"/> || [paper](https://mastercardfdn.org/all/scholars/) 
+</td> 
+</tr>
 
-|| <em class="icon-home"/> || [paper](https://arxiv.org/pdf/2003.11529.pdf) || <em class="icon-github"/> || [source code](https://github.com/masakhane-io/masakhane.git) ||
 
+
+</tr>
+
+<tr style="border-bottom:1pt solid #eee" >
+<td markdown="1">
+![spiden](/img/main/alumnode.png){:class="img-shadow"}
+</td>
+<td></td>
+<td markdown="1">
+<div><b>Alumnode Project Grants</b></div>
+<div>
+AlumNode is a collaboration of Heidleberg Laureate Fourm Foundation (HLFF) and German Scholars Organization (GSO). It is funded by the Klaus Tschira Foundation gGmbH.
+</div>
+|| <em class="icon-home"/> || [paper](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/) 
 </td> 
 </tr>
 

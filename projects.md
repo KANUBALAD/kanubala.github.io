@@ -27,6 +27,7 @@ lang: zh
 <td></td>
 <td markdown="1">
 [**Alumnode Project: Breaking the STEM Gap in Rural Africa**](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/)
+This project was a blend of a leadership and career development and an advocacy and science communication project. It was thus a one-day miniature Heidelberg Laureate Forum organized at the Radach conference center in Tamale in the Northern Region of Ghana. In line with the theme of the project, the activities of the conference included career development to provide career guidance for high school students, mentorship, exhibition of science projects and speeches from distinguished scientists.
 
 </td> 
 </tr>

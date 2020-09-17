@@ -29,13 +29,14 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/img/main/univ_ghana.jpg)
+![hkulogo](/img/main/AIMS_Gh.jpeg)
 </td>
 <td></td>
 <td markdown="1">
-[**The University of Ghana, (African Master In Machine Intelligence (AMMI, Ghana)**](https://www.ug.edu.gh/), 10/2019 - 10/2020 
+[**African Institute for Mathematical Sciences, (African Master in Machine Intelligence (AMMI, Ghana)**](www.aimsammi.org), 09/2019 - 10/2020 
 - **Msc in Machine Intelligence**
 - Supervisor: [Dr. Viani Djeundje Biatat ](https://uk.linkedin.com/in/viani-djeundje-biatat-b9977a31)
+- Thesis: Drivers of Financial Inclusion Using Machine Learning Techniques
 - *Full scolarship by Facebook and Google, [AMMI](https://aimsammi.org/)*
 </td> 
 </tr>
@@ -46,9 +47,10 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**Kwame Nkrumah University of Science and Technology (AIMS Senegal)**](https://www.knust.edu.gh/), 11/2019 - 02/2020
+[**Kwame Nkrumah University of Science and Technology (KNUST)**](https://www.knust.edu.gh/), 09/2019 - 11/2020
 - **Mphil. Applied Mathematics**
 - Supervisor: Dr.[Richard Kodzo Avuglah](https://www.knust.edu.gh/)
+Thesis: Machine Learning in Pricing European Call Options
 </td> 
 </tr>
 
@@ -63,6 +65,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 - **Msc in Mathematical Sciences**
 - Supervisor: Prof. [Daouda Sangare](https://www.ugb.sn/)
 - *Full scolarship by MasterCard Foundation, [MCF](https://mastercardfdn.org/)*
+- Thesis: Option Pricing Using Numerical Methods
 </td> 
 </tr>
 
@@ -73,8 +76,9 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**University for Development Studies**](https://uds.edu.gh/), 2012 - 2016
+[**University for Development Studies**](https://uds.edu.gh/), 09/2012 - 07/2016
 - **Bsc. Financial Mathematics**
+- Thesis: Challenges customers face in accessing loans from financial service institutions
 </td> 
 </tr>
 
@@ -106,7 +110,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 </div>
 
 <div class="leftpane1" markdown="1">
-#### Language
+#### Languages
 - English
 - French
 - Dagaare
@@ -132,8 +136,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 <td></td>
 <td markdown="1">
 [Heidelberg Laureate Forum (HLF)](https://www.heidelberg-laureate-forum.org/)
-
-The HLF is a networking conference where 200 carefully selected young researchers in mathematics and computer science spend a week interacting with the laureates of the disciplines: recipients of the Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize. Established in 2013, the HLF is annually organized by the Heidelberg Laureate Forum Foundation (HLFF)
+The **Heidelberg laureate Forum** is an annual networking event that brings together laureates in the field of mathematics and computer science (Abel Prize, ACM A.M. Turing Award, ACM Prize in Computing, Fields Medal and Nevanlinna Prize.)  and 200 carefully selected young researchers in these disciplines for a week in the mountainous city of Heidelberg.
 </td> 
 </tr>
 
@@ -144,7 +147,6 @@ The HLF is a networking conference where 200 carefully selected young researcher
 <td></td>
 <td markdown="1">
 [Deep Learning Indaba](http://www.deeplearningindaba.com/)
-
 The **Deep Learning Indaba** is an initiative to strengthen African Machine Learning community by increasing African participation and contribution to the advances in artificial intelligence and machine learning, I was privilege to attend the Indaba 2019 held in Kenya (Nairobi).
 </td> 
 </tr>
@@ -157,6 +159,38 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 <td markdown="1">
 [ICIAM , Valencia 2019](https://iciam2019.org/)
  The **ICIAM** serves as a showcase for the most recent advances in industrial and applied mathematics, covering interdisciplinary topics relating mathematics and other disciplines and demonstrating the applicability of this discipline to science, engineering and industry. ICIAM 2019 is, again, a great opportunity for young researchers and graduate students to discover the vast potential of applied mathematics and get in touch with its most recent trends and topics.
+</td> 
+</tr>
+
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![indaba](/img/main/seams.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[SEAMS, 2019](https://seams-workshop.gitlab.io/participants/dec2018/kanubala.pdf)
+ The Software Engineering for Applied Mathematical Sciences Workshop extends the Principles course to include a hack-a-thon during the second week. The topic focus and schedule for the first week remains largely the same, though there is an integrated development of a work plan for the hack-a-thon.
+During the hack-a-thon week, the schedule is more flexible. Participants meet with faculty on a regularly scheduled basis to check-in on how their plan is progressing, but they set that plan. The workshop wraps with participants demonstrating changes to their project’s engineering.
+</td> 
+</tr>
+
+
+
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![indaba](/img/main/NEF.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[NEF, 2018](https://nef.org/)
+ The **Next Einstein Forum**  is an AIMS initiative in partnership with Robert Bosch Stiftung. NEF is focused on convening Africa’s innovators to highlight breakthrough discoveries and catalyse scientific collaboration for human development. Held every two years, the three-day forum will gather 500 leading scientists, policymakers, business leaders, journalists, civil society leaders, entrepreneurs and scientists to highlight talent and advance global breakthroughs.
+NEF is focused on sustainable impact through:
+- Bridging gaps between science in Africa and the world
+- Facilitating the transformation of ideas into action
+- Advocating for science and smart science policy
+- Building a scientific community in Africa
 </td> 
 </tr>
 
@@ -181,7 +215,7 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 </td>
 <td></td>
 <td markdown="1">
-[**Neuromatch Academy, (Senegal)**](https://neuromatch.io/academy/), July 2020
+[**Neuromatch Academy, (Online)**](https://neuromatch.io/academy/), July 2020
 - Teaching Assitant
 </td> 
 </tr>
