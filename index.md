@@ -48,9 +48,9 @@ My research interests include but not limited to:
 
 ### Talks and Presentations
 - [Building a career in  AI and Machine Learning](https://www.youtube.com/watch?v=ax8y10-orCQ&t=1707s),Hacklab Founders Stories, Accra, Ghana. 
-
 - [Symposium Talk Day 4:](https://www.youtube.com/watch?v=a5suzFXFI3g&t=42s), Deep Learning Indaba, Nairobi, Kenya. 
 - [Heidelberg Laureate Forum Interview](https://www.youtube.com/watch?v=jnUGhiAmv30&t=51s), 6th HLF, Heidelberg, Germany. 
+
 ---
 
 ### News

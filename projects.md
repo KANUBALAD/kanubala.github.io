@@ -40,10 +40,10 @@ As part of the [team](https://www.masakhane.io/community), I'm working on [Tshil
 </td>
 <td></td>
 <td markdown="1">
-[**A CNN Based Dog Breed Classifier**](https://github.com/Kabongosalomon/CNN-Project-Dog-Breed-Classifier)
+[**A CNN Based Dog Breed Classifier**](https://github.com/KANUBALAD/Cat_Dog_Classifier.git)
 In this project, I defined a Convolutional Neural Network that performs better than the average human when given the task of identifying dog breeds in addition, if supplied an image of a human, the code will *also* produce an estimate of the closest-resembling dog breed.
 
-|| <em class="icon-home"/> || [Github](https://github.com/Kabongosalomon/CNN-Project-Dog-Breed-Classifier) ||
+|| <em class="icon-home"/> || [Github](https://github.com/KANUBALAD/Cat_Dog_Classifier.git) ||
 </td> 
 </tr>
 

@@ -16,7 +16,7 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-CV in [PDF](/archive/CV_Salomon.pdf) version.
+CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 
 ---
 
@@ -35,61 +35,37 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 <td markdown="1">
 [**The University of Ghana, (African Master In Machine Intelligence (AMMI, Ghana)**](https://www.ug.edu.gh/), 10/2019 - 10/2020 
 - **Msc in Machine Intelligence**
-- Supervisor: [Dr. Vukosi Marivate](https://cs.up.ac.za/users/view/vmarivate)
+- Supervisor: [Dr. Viani Djeundje Biatat ](https://uk.linkedin.com/in/viani-djeundje-biatat-b9977a31)
 - *Full scolarship by Facebook and Google, [AMMI](https://aimsammi.org/)*
 </td> 
 </tr>
 
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![hkulogo](/img/main/udacity.png)
-</td>
-<td></td>
-<td markdown="1">
-[**Udacity**](https://www.udacity.com/course/deep-learning-nanodegree--nd101), 04/2019 - 12/2019
-- **Deeplearnig Nanodegree**
-- *Full scolarship by [Facebook AI, and Udacity](https://www.udacity.com/facebook-AI-scholarship)*
-</td> 
-</tr>
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![hkulogo](/img/main/UWC_logo.png)
+![hkulogo](/img/main/AIMS_Senegal.png)
 </td>
 <td></td>
 <td markdown="1">
-[**The University of Western Cape, (AIMS South Africa)**](https://www.uwc.ac.za/), 08/2018 - 06/2019 
+[**African Institute for Mathematical Sciences, (AIMS Senegal)**](https://aims-senegal.org/), 09/2017 - 02/2019 
 - **Msc in Mathematical Sciences**
-- Supervisor: Prof. [Etienne Barnard](http://news.nwu.ac.za/experts/etienne-barnard)
-- *Full scolarship by MasterCard Foundation, [AIMS South Africa](https://aims.ac.za/)*
+- Supervisor: Prof. [Daouda Sangare](https://www.ugb.sn/)
+- *Full scolarship by MasterCard Foundation, [MCF](https://mastercardfdn.org/)*
 </td> 
 </tr>
 
 <tr height="10"/>
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![ustclogo](/img/main/unilu.jpeg)
+![ustclogo](/img/main/uds.jpg)
 </td>
 <td></td>
 <td markdown="1">
-[**Université de Lubumbashi**](http://www.unilu.ac.cd/), 2011 - 2017
-- **Licence en Mathématiques et informatiques**
-- Supervisor: Prof. [Franck Kalala](https://scholar.google.com/citations?user=fQnrWTgAAAAJ&hl=en)
+[**University for Development Studies**](https://uds.edu.gh/), 2012 - 2016
+- **Bsc. Financial Mathematics**
 </td> 
 </tr>
 
-<tr height="10"/>
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![ustclogo](/img/main/unilu.jpeg)
-</td>
-<td></td>
-<td markdown="1">
-[**Université de Lubumbashi**](http://www.unilu.ac.cd/), 2011 - 2017
-- **Graduat en Mathématiques**
-- Supervisor: Prof. [Franck Kalala](https://scholar.google.com/citations?user=fQnrWTgAAAAJ&hl=en)
-</td> 
-</tr>
 
 </table>
 
@@ -101,16 +77,14 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 <div class="leftpane1" markdown="1">
 #### Programming
 - Python
-- Julia
-- C/C++
-- Java
 </div>
   
 <div class="leftpane1" markdown="1">
 #### Libraries
 - PyTorch
-- TensorFlow
-- Nltk
+- Pandas
+- Numpy
+- Sklearn
 </div>
   
 <div class="leftpane1" markdown="1">
@@ -123,10 +97,8 @@ CV in [PDF](/archive/CV_Salomon.pdf) version.
 #### Language
 - English
 - French
-- Tshiluba
-- Lingala 
-- Kikongo 
-- Swahili
+- Dagaare
+- Twi
 </div>
 </div>
 
@@ -161,9 +133,21 @@ The HLF is a networking conference where 200 carefully selected young researcher
 <td markdown="1">
 [Deep Learning Indaba](http://www.deeplearningindaba.com/)
 
-The **Deep Learning Indaba** is an initiative to strengthen African Machine Learning community by increasing African participation and contribution to the advances in artificial intelligence and machine learning, I was privilege to attend the Indaba 2019 that was held in Kenya (Nairobi).
+The **Deep Learning Indaba** is an initiative to strengthen African Machine Learning community by increasing African participation and contribution to the advances in artificial intelligence and machine learning, I was privilege to attend the Indaba 2019 held in Kenya (Nairobi).
 </td> 
 </tr>
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![indaba](/img/main/ICIAM.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[ICIAM , Valencia 2019](https://iciam2019.org/)
+ The **ICIAM** serves as a showcase for the most recent advances in industrial and applied mathematics, covering interdisciplinary topics relating mathematics and other disciplines and demonstrating the applicability of this discipline to science, engineering and industry. ICIAM 2019 is, again, a great opportunity for young researchers and graduate students to discover the vast potential of applied mathematics and get in touch with its most recent trends and topics.
+</td> 
+</tr>
+
 </table>
 
 ---
@@ -181,24 +165,36 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 <col >
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![lenovologo](/img/main/snel.png)
+![lenovologo](/img/main/NMA.png)
 </td>
 <td></td>
 <td markdown="1">
-[**Société Nationale d'Électricité, Lubumbashi (DRC)**](http://www.snel.cd/), 2016 - 2017 
-- IT Intern
+[**Neuromatch Academy, (Senegal)**](https://neuromatch.io/academy/), July 2020
+- Teaching Assitant
 </td> 
 </tr>
 
 <tr height="10"/>
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![cadcg](/img/main/ikamva.png)
+![cadcg](/img/main/manobi.jpg)
 </td>
 <td></td>
 <td markdown="1">
-[**IkamvaYouth**](http://ikamvayouth.org/), 2019.2 - 2019.6 
-- Mathematics Tutor
+[**Manobi Africa, Dakar (Senegal)**](https://www.manobi.com/), May, 2018 - Dec, 2018
+- Data Scientist
+</td> 
+</tr>
+
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![cadcg](/img/main/uds.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**University for Development Studies**](http://ikamvayouth.org/), Sep, 2016 - Aug, 2017
+- Teaching Assistant
 </td> 
 </tr>
 
