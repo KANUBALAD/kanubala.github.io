@@ -40,6 +40,18 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 </td> 
 </tr>
 
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![hkulogo](/img/main/knust.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**Kwame Nkrumah University of Science and Technology (AIMS Senegal)**](https://www.knust.edu.gh/), 11/2019 - 02/2020
+- **Mphil. Applied Mathematics**
+- Supervisor: Dr.[Richard Kodzo Avuglah](https://www.knust.edu.gh/)
+</td> 
+</tr>
+
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -177,7 +189,7 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 <tr height="10"/>
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![cadcg](/img/main/manobi.jpg)
+![cadcg](/img/main/manobi.png)
 </td>
 <td></td>
 <td markdown="1">
@@ -193,8 +205,20 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 </td>
 <td></td>
 <td markdown="1">
-[**University for Development Studies**](http://ikamvayouth.org/), Sep, 2016 - Aug, 2017
+[**University for Development Studies**](https://uds.edu.gh/), Sep, 2016 - Aug, 2017
 - Teaching Assistant
+</td> 
+</tr>
+
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![cadcg](/img/main/ecobank.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**Ecobank**](https://www.ecobank.com/personal-banking), May, 2015 - Aug, 2015
+- Customer Service Intern
 </td> 
 </tr>
 

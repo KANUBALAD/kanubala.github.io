@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Main Projects"
+title: "Main Research Projects"
 tagline : ""
 use_math: true
 lang: zh
@@ -19,18 +19,41 @@ lang: zh
 <col width="10">
 <col >
 
+
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![captcha](/img/main/masakhane.png){:class="img-shadow"}
+![captcha](/img/main/alumnode.jpg){:class="img-shadow"}
 </td>
 <td></td>
 <td markdown="1">
-[**Masakhane Initiative**](https://www.masakhane.io/home)
+[**Alumnode Project: Breaking the STEM Gap in Rural Africa**](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/)
 
-The project consist of putting African researchers from ACROSS the continent together to join the effort in building translation models for African languages. Masakhane means "We Build Together" in isiZRNNulu and was inspired by the [Deep Learning Indaba](http://www.deeplearningindaba.com/) theme for 2018. 
-As part of the [team](https://www.masakhane.io/community), I'm working on [Tshiluba](https://en.wikipedia.org/wiki/Luba-Kasai_language).
+</td> 
+</tr>
 
-|| <em class="icon-home"/> || [project page](https://www.masakhane.io/home) || <em class="icon-github"/> || [Github](https://github.com/masakhane-io/masakhane) ||
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![captcha](/img/main/MCF.png){:class="img-shadow"}
+</td>
+<td></td>
+<td markdown="1">
+[**Mastercard Foundation Scholars Research; Increasing women in STEM Transistion into Tertiary Education**](https://mastercardfdn.org/)
+In Africa, a chunk of the population are women yet they have the least enrollment figures as you go up the academic stages. This means that a size able chunk f the potential human resource on the continent remain underdeveloped. This has adverse effects on the overall capacity for growth. Even though many African countries are instituting policies to ameliorate this situation, the number of women enrolled in schools continue to lag behind that of males especially at the tertiary level. Many factors have been propounded for this gender gap in higher education. Key among the reasons ascribed include the fact that women trade off their educational and professional development to raise and nurture their families. This quantitative re-search primarily seeks to identify the challenges women in STEM face while pursuing courses in such fields, it also explores the ways to facilitate access to higher education without comprising on their family obligations.
+</td> 
+</tr>
+
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![captcha](/img/main/financial.jpeg){:class="img-shadow"}
+</td>
+<td></td>
+<td markdown="1">
+[**Financial Inclusion**](https://www.kaggle.com/c/dsn-financial-inclusion-in-africa)
+Predicting Financial-Inclusion-Africa(Classification, Explainable AI)
+Financial Inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 13.9% of the adult population) have access to or use a commercial bank account.
+Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. Access to bank accounts enable households to save and facilitate payments while also helping businesses build up their credit-worthiness and improve their access to other finance services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
+The objective of this competition is to create a machine learning model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
 </td> 
 </tr>
 
@@ -49,29 +72,16 @@ In this project, I defined a Convolutional Neural Network that performs better t
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
-![captcha](/img/main/tv_script.png){:class="img-shadow"}
+![captcha](/img/main/expresso.jpg){:class="img-shadow"}
 </td>
 <td></td>
 <td markdown="1">
-[**A RNN Based Model : Generate TV Scripts**](https://github.com/Kabongosalomon/Tv-Script-Generation)
-Implemented an RNN to generate my own Seinfeld TV scripts using RNNs. I used part of the Seinfeld dataset of scripts from 9 seasons. Using RNN, I generated a new, "fake" TV script, based on patterns it recognizes in this training data.
-
-|| <em class="icon-home"/> || [Github](https://github.com/Kabongosalomon/Tv-Script-Generation) ||
+[**An Xgboost Classifier Approach: Predicting Churning in a Telecommunication Industry**](https://zindi.africa/hackathons/umojahack-ghana-expresso-churn-prediction-challenge)
+Expresso is an African telecommunications company that provides customers with airtime and mobile data bundles. The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.
+This solution will help Expresso to better serve their customers by understanding which customers are at risk of leaving.
 </td> 
 </tr>
 
-<tr style="border-bottom:1pt solid #eee">
-<td markdown="1">
-![captcha](/img/main/dg_gan.png){:class="img-shadow"}
-</td>
-<td></td>
-<td markdown="1">
-[**Generate Faces**](https://github.com/Kabongosalomon/Face-Generation-Project)
-Generating images of the face using Deep Convolutional Generative Adversarial Network (DCGAN). The DCGAN is made of a pair of multilayer neural networks that compete against each other until one learns to generate realistic images of faces
-
-|| <em class="icon-home"/> || [Github](https://github.com/Kabongosalomon/Face-Generation-Project) ||
-</td> 
-</tr>
 
 <!-- 
 <tr height="25"/>
