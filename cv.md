@@ -50,7 +50,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 [**Kwame Nkrumah University of Science and Technology (KNUST)**](https://www.knust.edu.gh/), 09/2019 - 11/2020
 - **Mphil. Applied Mathematics**
 - Supervisor: [Dr. Richard Kodzo Avuglah](https://www.knust.edu.gh/)
-Thesis: Machine Learning in Pricing European Call Options
+- Thesis: Machine Learning in Pricing European Call Options
 </td> 
 </tr>
 
@@ -158,7 +158,7 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 <td></td>
 <td markdown="1">
 [ICIAM , Valencia 2019](https://iciam2019.org/)
- The **ICIAM** serves as a showcase for the most recent advances in industrial and applied mathematics, covering interdisciplinary topics relating mathematics and other disciplines and demonstrating the applicability of this discipline to science, engineering and industry. ICIAM 2019 is, again, a great opportunity for young researchers and graduate students to discover the vast potential of applied mathematics and get in touch with its most recent trends and topics.
+ The **ICIAM** serves as a showcase for the most recent advances in industrial and applied mathematics, covering interdisciplinary topics relating to mathematics and other disciplines and demonstrating the applicability of this discipline to science, engineering and industry. ICIAM is, again, a great opportunity for young researchers and graduate students to discover the vast potential of applied mathematics and get in touch with its most recent trends and topics.
 </td> 
 </tr>
 
@@ -170,8 +170,8 @@ The **Deep Learning Indaba** is an initiative to strengthen African Machine Lear
 <td></td>
 <td markdown="1">
 [SEAMS, 2019](https://seams-workshop.gitlab.io/participants/dec2018/kanubala.pdf)
- The Software Engineering for Applied Mathematical Sciences Workshop extends the Principles course to include a hack-a-thon during the second week. The topic focus and schedule for the first week remains largely the same, though there is an integrated development of a work plan for the hack-a-thon.
-During the hack-a-thon week, the schedule is more flexible. Participants meet with faculty on a regularly scheduled basis to check-in on how their plan is progressing, but they set that plan. The workshop wraps with participants demonstrating changes to their project’s engineering.
+ The **Software Engineering for Applied Mathematical Sciences Workshop** extends the Principles course to include a hackathon during the second week. The topic focus and schedule for the first week remains largely the same, though there is an integrated development of a work plan for the hackathon.
+During the hackathon week, the schedule is more flexible. Participants meet with faculty on a regularly scheduled basis to check-in on how their plan is progressing, but they set that plan. The workshop wraps with participants demonstrating changes to their project’s engineering.
 </td> 
 </tr>
 
@@ -186,11 +186,6 @@ During the hack-a-thon week, the schedule is more flexible. Participants meet wi
 <td markdown="1">
 [NEF, 2018](https://nef.org/)
  The **Next Einstein Forum**  is an AIMS initiative in partnership with Robert Bosch Stiftung. NEF is focused on convening Africa’s innovators to highlight breakthrough discoveries and catalyse scientific collaboration for human development. Held every two years, the three-day forum will gather 500 leading scientists, policymakers, business leaders, journalists, civil society leaders, entrepreneurs and scientists to highlight talent and advance global breakthroughs.
-NEF is focused on sustainable impact through:
-- Bridging gaps between science in Africa and the world
-- Facilitating the transformation of ideas into action
-- Advocating for science and smart science policy
-- Building a scientific community in Africa
 </td> 
 </tr>
 

@@ -56,7 +56,7 @@ lang: zh
 <div><b>Mastercard Foundation Scholars Research Grant</b></div>
 <div>
 The Mastercard Foundation Scholars Program is developing Africa’s next generation of leaders. The program allows students whose talent and promise exceed their financial resources to complete their education. With a vision that education is a catalyst for social and economic change, the program focuses on developing leaders who are transformative, encouraging them to be active contributors in their communities.</div>
-|| <em class="icon-home"/> || [paper](https://mastercardfdn.org/all/scholars/) 
+|| <em class="icon-home"/> || [link](https://mastercardfdn.org/all/scholars/) 
 </td> 
 </tr>
 
@@ -74,7 +74,7 @@ The Mastercard Foundation Scholars Program is developing Africa’s next generat
 <div>
 AlumNode is a collaboration of Heidleberg Laureate Fourm Foundation (HLFF) and German Scholars Organization (GSO). It is funded by the Klaus Tschira Foundation gGmbH.
 </div>
-|| <em class="icon-home"/> || [paper](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/) 
+|| <em class="icon-home"/> || [link](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/) 
 </td> 
 </tr>
 

@@ -26,7 +26,7 @@ lang: zh
 </td>
 <td></td>
 <td markdown="1">
-[**Alumnode Project: Breaking the STEM Gap in Rural Africa**](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/)
+[**Alumnode Project; Breaking the STEM Gap in Rural Africa**](https://alumnode.org/alumni-projects/breaking-stem-gap-rural-africa/)
 This project was a blend of a leadership and career development and an advocacy and science communication project. It was thus a one-day miniature Heidelberg Laureate Forum organized at the Radach conference center in Tamale in the Northern Region of Ghana. In line with the theme of the project, the activities of the conference included career development to provide career guidance for high school students, mentorship, exhibition of science projects and speeches from distinguished scientists.
 
 </td> 
@@ -39,7 +39,7 @@ This project was a blend of a leadership and career development and an advocacy 
 <td></td>
 <td markdown="1">
 [**Mastercard Foundation Scholars Research; Increasing women in STEM Transistion into Tertiary Education**](https://mastercardfdn.org/)
-In Africa, a chunk of the population are women yet they have the least enrollment figures as you go up the academic stages. This means that a size able chunk f the potential human resource on the continent remain underdeveloped. This has adverse effects on the overall capacity for growth. Even though many African countries are instituting policies to ameliorate this situation, the number of women enrolled in schools continue to lag behind that of males especially at the tertiary level. Many factors have been propounded for this gender gap in higher education. Key among the reasons ascribed include the fact that women trade off their educational and professional development to raise and nurture their families. This quantitative re-search primarily seeks to identify the challenges women in STEM face while pursuing courses in such fields, it also explores the ways to facilitate access to higher education without comprising on their family obligations.
+In Africa, a chunk of the population are women yet they have the least enrollment figures as you go up the academic stages. This means that a size able chunk of the potential human resource on the continent remain underdeveloped. This quantitative research primarily seeks to identify the challenges women in STEM face while pursuing courses in such fields, it also explores the ways to facilitate access to higher education without comprising on their family obligations.
 </td> 
 </tr>
 
@@ -53,8 +53,8 @@ In Africa, a chunk of the population are women yet they have the least enrollmen
 [**Financial Inclusion**](https://www.kaggle.com/c/dsn-financial-inclusion-in-africa)
 Predicting Financial-Inclusion-Africa(Classification, Explainable AI)
 Financial Inclusion remains one of the main obstacles to economic and human development in Africa. For example, across Kenya, Rwanda, Tanzania, and Uganda only 9.1 million adults (or 13.9% of the adult population) have access to or use a commercial bank account.
-Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. Access to bank accounts enable households to save and facilitate payments while also helping businesses build up their credit-worthiness and improve their access to other finance services. Therefore, access to bank accounts is an essential contributor to long-term economic growth.
-The objective of this competition is to create a machine learning model to predict which individuals are most likely to have or use a bank account. The models and solutions developed can provide an indication of the state of financial inclusion in Kenya, Rwanda, Tanzania and Uganda, while providing insights into some of the key demographic factors that might drive individuals’ financial outcomes.
+Traditionally, access to bank accounts has been regarded as an indicator of financial inclusion. Despite the proliferation of mobile money in Africa and the growth of innovative fintech solutions, banks still play a pivotal role in facilitating access to financial services. 
+The objective of this competition is to create a machine learning model to predict which individuals are most likely to have or use a bank account. 
 </td> 
 </tr>
 
@@ -65,8 +65,7 @@ The objective of this competition is to create a machine learning model to predi
 <td></td>
 <td markdown="1">
 [**A CNN Based Dog Breed Classifier**](https://github.com/KANUBALAD/Cat_Dog_Classifier.git)
-In this project, I defined a Convolutional Neural Network that performs better than the average human when given the task of identifying dog breeds in addition, if supplied an image of a human, the code will *also* produce an estimate of the closest-resembling dog breed.
-
+In this project, I defined a Convolutional Neural Network that is able to classifiy animals either as cats or dogs depending on which breed it is.
 || <em class="icon-home"/> || [Github](https://github.com/KANUBALAD/Cat_Dog_Classifier.git) ||
 </td> 
 </tr>
