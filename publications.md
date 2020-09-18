@@ -51,7 +51,7 @@ lang: zh
 <td markdown="1">
 ![spiden](/img/main/mcf_scholars.png){:class="img-shadow"}
 </td>
-<!-- <td></td> -->
+!-- <td></td> -->
 <td markdown="1">
 <div><b>Mastercard Foundation Scholars Research Grant</b></div>
 <div>
