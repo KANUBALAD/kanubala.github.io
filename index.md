@@ -51,7 +51,7 @@ My research interests include but not limited to:
 - [ Machine Learning Summer School: ](https://www.youtube.com/watch?v=_uO32s6N2zE&list=PLRdJhevE1cHI3lf8S1-86_I7fk_aw1EfS) Machine Learning in pricing options Germany.
 - [Pyladies Night: ](https://pythonghana.blogspot.com/2020/04/pyladies-night-with-deborah-kanubala.html) Is AI going to do us more harm than good?, Accra, Ghana. 
 - [Symposium Talk Day 4: ](https://www.youtube.com/watch?v=a5suzFXFI3g&t=42s) Deep Learning Indaba, Nairobi, Kenya. 
-- [Mentor: Tell my story: ](https://www.facebook.com/NSMQGhana/posts/nsmqwomanoftheweek-is-deborah-kanubala-ms-kanubala-lives-and-breathes-mathematic/1729871123817174/) National Science and Mathemaics Quiz, Accra, Ghana. 
+- [Mentor Tell my story: ](https://www.facebook.com/NSMQGhana/posts/nsmqwomanoftheweek-is-deborah-kanubala-ms-kanubala-lives-and-breathes-mathematic/1729871123817174/) National Science and Mathemaics Quiz, Accra, Ghana. 
 - [Heidelberg Laureate Forum Interview: ](https://www.youtube.com/watch?v=jnUGhiAmv30&t=51s) 6th HLF, Heidelberg, Germany. 
 
 

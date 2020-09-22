@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Circular Queue, Python Implementation"
-categories: Coding
-tags: [leetcode, data_structure]
+title:  "International Day of Women and Girls in Science"
+categories: Women & Girls
+tags: [Women, Science, STEM]
 comments: true
 # categories: coding
 # tags: linux
