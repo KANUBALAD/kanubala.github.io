@@ -33,9 +33,9 @@ CV in [PDF](/archive/Kanubala_CV.pdf) version.
 </td>
 <td></td>
 <td markdown="1">
-[**Univeristy of Saarland)**](https://www.uni-saarland.de/en/home.html), 10/2021 - Date
+[**Univeristy of Saarland**](https://www.uni-saarland.de/en/home.html), 10/2021 - Date
 - **PhD Computer Science (Machine Learning)**
-- Supervisor: [Prof.Isabel Valera](https://ivaleram.github.io/)
+- Supervisor: [Prof.Dr. Isabel Valera](https://ivaleram.github.io/)
 - Thesis: Designing Fair Machine Learning Algorithms
 </td> 
 </tr>
@@ -124,11 +124,12 @@ CV in [PDF](/archive/Kanubala_CV.pdf) version.
 
 <div class="leftpane1" markdown="1">
 #### Languages
-- English
-- French
-- German
-- Dagaare
-- Twi
+- English(Fluent)
+- French(Intermediate)
+- German(Beginner)
+- Dagaare(Native)
+- Gonja(Intermediate)
+- Twi(Intermediate)
 </div>
 </div>
 

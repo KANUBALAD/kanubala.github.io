@@ -49,6 +49,21 @@ lang: zh
 
 <tr style="border-bottom:1pt solid #eee" >
 <td markdown="1">
+![spiden](/img/main/clinical_paper.jpg){:class="img-shadow"}
+</td>
+!-- <td></td> -->
+<td markdown="1">
+<div><b>Efficient Prediction of Missed Clinical Appointment Using Machine Learning</b></div>
+<div>
+Public health and its related facilities are crucial for thriving cities and societies. The casual attitude of missing medical appointments may cause severe damage to a patient's health. Our study has achieved 94% recall, 86% accuracy, 83% precision, 87% F1-score and 92% area under the curve. </div>
+|| <em class="icon-home"/> || [link](https://www.hindawi.com/journals/cmmm/2021/2376391/) 
+</td> 
+</tr>
+
+
+
+<tr style="border-bottom:1pt solid #eee" >
+<td markdown="1">
 ![spiden](/img/main/mcf_scholars.png){:class="img-shadow"}
 </td>
 !-- <td></td> -->
