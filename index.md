@@ -26,22 +26,24 @@ img {
 }
 </style>
 
-<img src="/img/main/kanubala_headshot.jpg" class="center" style="width:200px">
+<img src="/img/main/kanubala_headshot.jpg" class="center" style="width:250px">
 
 
 ### About Me
-I am a lecturer in Data Science and Artificial Intelligence at the [Academic City University College, Accra Ghana](https://acity.edu.gh/) and I hold a BSc degree in Financial Mathematics and a Master's degree in Mathematical Science with a specialization in Big Data and Financial Mathematics. I am rounding up my second masters degree with the prestigious [Africa Masters in Machine Intelligence](www.aimsammi.org) sponsored by Google and Facebook. I am the co-founder of [Women Promoting Science to the younger Generation (WPSYG)](https://www.linkedin.com/in/women-promoting-science-to-the-younger-association-661a5317b/) and hail from the Northern part of Ghana which happens to be a region that remains underprivileged when it comes to women in STEM and ICT in Ghana. However, I have risen above the odds to gain a Master’s in mathematics and have been engaged in several activities that seeks to promote more women in STEM.  Due to my active participation and promotion of women in STEM, I was voted among the  20 Most influential people in Northern Ghana, STEM Category. Additionally, I am a co-organizer of [Women in Machine Learning and Data Science](http://wimlds.org/about-the-accra-team/) Accra chapter. I have also been a recipient of several awards and grants including the Mastercard Foundation scholars grant, Alumnode grant from Germany and MIT Prize, and google awards during Indaba in Kenya and Indabax Ghana respectively. I envision a future where people will be assessed based on their skill set rather than their gender.
+
+Deborah .D. Kanubala is an NLP Engineer at Proto and also the co-organizer for the WiMLDS Accra-Ghana chapter and the co-founder of [Women Promoting Science to the younger Generation (WPSYG)](https://www.linkedin.com/in/women-promoting-science-to-the-younger-association-661a5317b/). She is currently enrolled as a graduate student at the [University of Saarland](https://www.uni-saarland.de/en/home.html) in Germany. Prior to this, she was a lecturer in Data Science and Artificial Intelligence at the [Academic City University College, Accra Ghana](https://acity.edu.gh/). She completed her bachelor's degree in Financial Mathematics and a Master's degree in Mathematical Science with a specialization in Big Data and Financial Mathematics. In addition, she recently completed her second masters degree with the prestigious [Africa Masters in Machine Intelligence](www.aimsammi.org) sponsored by Google and Facebook. She hails from the Northern part of Ghana which happens to be a region that remains underprivileged when it comes to women in STEM and ICT in Ghana. However, she has risen above the odds to gain a Master’s in mathematics and have been engaged in several activities that seeks to promote more women in STEM. Due to her active participation and promotion of women in STEM, she was voted among the  20 Most influential people in Northern Ghana, STEM Category. Also, she was listed among [80 African Women Advancing Artificial Intelligence in Africa and the World](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/). Ms.Kanubala has been a recipient of several awards and grants including the Mastercard Foundation scholars grant, Alumnode grant from Germany and MIT Prize, and google awards during Indaba in Kenya and Indabax Ghana respectively. She envision a future where people will be assessed based on their skill set rather than their gender.
+
 
 ---
 
 ### Research Interests
 My research interests include but not limited to:
-- Machine Learning with applications to: 
-    - Credit Scoring
-    - Financial Inclusion
-    - Financial Derivatives   
-- Computer Vision
-- Natural Language Processing
+
+  - Fair Machine Learning
+  - Causality
+  - Explainability
+  - AI ethics
+  - Natural Language Processing
 
 
 ---
@@ -60,6 +62,7 @@ My research interests include but not limited to:
 
 ### News
 
+- [Oct 2021] I joined  [University of Saarland](https://www.uni-saarland.de/en/home.html) as a graduate student, Saarbrucken, Germany
 - [Sep 2020] I joined  [Academic City University College ](https://acity.edu.gh/) as a lecturer in Data Science and AI, Accra Ghana
 - [Jun 2020] I was accepted for the [DLRL Summer School 2020](https://dlrlsummerschool.ca/) hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/en/)
 - [Jun 2020] I was accepted for the [Machine Learning Summer Schools](http://mlss.tuebingen.mpg.de/) hosted by [Max Planck Institute for Intelligent Systems](http://is.tuebingen.mpg.de/), Tübingen, Germany
@@ -70,4 +73,4 @@ My research interests include but not limited to:
 
 ### Contacts
 - Phone: (+233) 20 074 5006 (Ghana) 
-- Email: deborah.kanubala@acity.edu.gh
+- Email: dkanubala@aimsammi.org

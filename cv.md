@@ -16,7 +16,7 @@ lang: zh
 {% assign posts_collate = site.categories.projects %}
 {% include JB/posts_collate %}
 
-CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
+CV in [PDF](/archive/Kanubala_CV.pdf) version.
 
 ---
 
@@ -26,6 +26,19 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 <col width="9%">
 <col width="20">
 <col >
+
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![hkulogo](/img/main/uds_saarland.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**Univeristy of Saarland)**](https://www.uni-saarland.de/en/home.html), 10/2021 - Date
+- **PhD Computer Science (Machine Learning)**
+- Supervisor: [Prof.Isabel Valera](https://ivaleram.github.io/)
+- Thesis: Designing Fair Machine Learning Algorithms
+</td> 
+</tr>
 
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
@@ -113,6 +126,7 @@ CV in [PDF](/archive/KanubalaDeborahD_CV.pdf) version.
 #### Languages
 - English
 - French
+- German
 - Dagaare
 - Twi
 </div>
@@ -204,13 +218,42 @@ During the hackathon week, the schedule is more flexible. Participants meet with
 <col width="17%">
 <col width="20">
 <col >
+
+
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![cadcg](/img/main/proto.png)
+</td>
+<td></td>
+<td markdown="1">
+[**Proto**](https://www.proto.cx/), September, 2020 - Date
+- NLP Engineer
+</td> 
+</tr>
+
+
+
+<tr height="10"/>
+<tr style="border-bottom:1pt solid #eee">
+<td markdown="1">
+![cadcg](/img/main/acity.jpg)
+</td>
+<td></td>
+<td markdown="1">
+[**Academic City University College**](https://acity.edu.gh/), September, 2020 - October, 2021
+- Lecturer
+</td> 
+</tr>
+
+
 <tr style="border-bottom:1pt solid #eee">
 <td markdown="1">
 ![lenovologo](/img/main/NMA.png)
 </td>
 <td></td>
 <td markdown="1">
-[**Neuromatch Academy, (Online)**](https://neuromatch.io/academy/), July 2020
+[**Neuromatch Academy, (Online)**](https://neuromatch.io/academy/), July, 2020
 - Teaching Assitant
 </td> 
 </tr>
