@@ -62,6 +62,7 @@ My research interests include but not limited to:
 
 ### News
 
+- [Oct 2021] I was listed among [80 African Women-Advancing Artificial Intelligence in Africa and the World](https://africanshapers.com/en/80-african-women-advancing-artificial-intelligence-in-africa-and-the-world/#:~:text=80%20African%20Women%20Advancing%20Artificial%20Intelligence%20in%20Africa%20and%20around%20the%20World,-News%20Tech&text=Only%2022%25%20of%20artificial%20intelligence,on%20the%20global%20gender%20gap.)
 - [Oct 2021] I joined  [University of Saarland](https://www.uni-saarland.de/en/home.html) as a graduate student, Saarbrucken, Germany
 - [Sep 2020] I joined  [Academic City University College ](https://acity.edu.gh/) as a lecturer in Data Science and AI, Accra Ghana
 - [Jun 2020] I was accepted for the [DLRL Summer School 2020](https://dlrlsummerschool.ca/) hosted by [CIFAR](https://www.cifar.ca/) and [Mila](https://mila.quebec/en/)
@@ -72,5 +73,4 @@ My research interests include but not limited to:
 ---
 
 ### Contacts
-- Phone: (+233) 20 074 5006 (Ghana) 
 - Email: dkanubala@aimsammi.org
